@@ -1,4 +1,4 @@
-# How to use
+# How to build EKS cluster and Jenkins 
 
 1. Create AWS cloud9 IDE 
 
@@ -37,6 +37,11 @@
 
     username: admin
     password: admin
+
+8. uninstall
+
+   cd ../uninstall/
+   bash uninstall.sh 
 
 
 PS. My friend and me threw a jenkins workhop 
