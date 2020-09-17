@@ -2,7 +2,7 @@
 
 1. Create AWS cloud9 IDE 
 
-    AMI : `Ubuntu Serber 18.04 LTS`
+    AMI : Ubuntu Serber 18.04 LTS
 
 
 2. Disable `AWS managed temporary credentials` 
@@ -19,19 +19,19 @@
 
 4. Install EKS 
 
-	cd 01-install-eks-cluster/
-	bash eks_install.sh
+	`cd 01-install-eks-cluster/`
+	`bash eks_install.sh`
 
 
 5. Install Jenkins
 
-	cd ../02-install-jenkins/
-	bash install.sh 
+	`cd ../02-install-jenkins/`
+	`bash install.sh` 
 
 
 6.  get jenkins url
 
-	bash get-links.sh
+	`bash get-links.sh`
 
 7. log in jenkins link
 
@@ -40,8 +40,8 @@
 
 8. uninstall
 
-   cd ../uninstall/
-   bash uninstall.sh 
+   `cd ../uninstall/`
+   `bash uninstall.sh`
 
 
 PS. My friend and me threw a jenkins workhop 
