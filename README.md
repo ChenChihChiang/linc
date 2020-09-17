@@ -49,5 +49,6 @@ PS. My friend and me threw a jenkins workhop
     you can find on youtube and google docs
     
     https://www.youtube.com/watch?v=eM26quxVuao
+    
     https://docs.google.com/presentation/d/1WApH5JjlhcJ5YCVIE-It5vdTAcrUaKHOgBfuIGqP18k/edit#slide=id.g88b4f90e25_1_9
 
