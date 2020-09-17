@@ -2,7 +2,7 @@
 
 1. Create AWS cloud9 IDE 
 
-    AMI : Ubuntu Serber 18.04 LTS
+    AMI : Ubuntu Server 18.04 LTS
 
 
 2. Disable `AWS managed temporary credentials` 
