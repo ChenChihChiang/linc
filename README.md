@@ -36,6 +36,7 @@
 7. log in jenkins link
 
     username: admin
+    
     password: admin
 
 8. uninstall
