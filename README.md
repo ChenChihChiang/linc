@@ -1,8 +1,10 @@
 # How to use
 
-1. Create AWS cloud9 IDE (Ubuntu Serber 18.04 LTS)
+1. Create AWS cloud9 IDE `Ubuntu Serber 18.04 LTS`
+
 
 2. Disable `AWS managed temporary credentials` 
+
 
 3. Set up permisstion for AWS Cloud9
 
@@ -12,15 +14,18 @@
 	
 	export AWS_DEFAULT_REGION=ap-northeast-1
 
+
 4. Install EKS 
 
 	cd 01-install-eks-cluster/
 	bash eks_install.sh
 
+
 5. Install Jenkins
 
 	cd ../02-install-jenkins/
 	bash install.sh 
+
 
 6.  get jenkins url
 
@@ -30,3 +35,4 @@
 
     username: admin
     password: admin
+
