@@ -7,7 +7,9 @@
 3. Set up permisstion for AWS Cloud9
 
 	export AWS_ACCESS_KEY_ID={your key id}
+	
 	export AWS_SECRET_ACCESS_KEY={your secret key}
+	
 	export AWS_DEFAULT_REGION=ap-northeast-1
 
 4. Install EKS 
